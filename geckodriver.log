@@ -1,0 +1,233 @@
+1702031043643	geckodriver	INFO	Listening on 127.0.0.1:49643
+1702031046705	mozrunner::runner	INFO	Running command: "C:\\Users\\MIIZI\\.cache\\selenium\\firefox\\win64\\120.0.1\\firefox.exe" "--marionette" "--remote-debuggin ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIIZI\\AppData\\Local\\Temp\\rust_mozprofilevFnBzv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702031047650	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702031047704	Marionette	INFO	Listening on port 49662
+WebDriver BiDi listening on ws://127.0.0.1:49644
+Read port: 49662
+1702031047812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49644/devtools/browser/2cc91c1a-7d0f-4ecd-9b6c-9de342ac30dc
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.83/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_sg.54e300458bc849375ef5.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.96/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1702031077733	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.83/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_sg.54e300458bc849375ef5.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:6442450954"
+console.error: "Unable to find target with innerWindowId:6442450954"
+console.error: "Unable to find target with innerWindowId:6442450954"
+console.error: "Unable to find target with innerWindowId:6442450954"
+console.error: "Unable to find target with innerWindowId:6442450954"
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.83/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_sg.54e300458bc849375ef5.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:6442450955"
+console.error: "Unable to find target with innerWindowId:6442450955"
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.83/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-desktop/npm-async-bric_verify_sec_sdk_build_captcha_sg.54e300458bc849375ef5.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.96/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1702031120392	Marionette	INFO	Stopped listening on port 49662
+Dynamically enable window occlusion 1
+1704517334373	geckodriver	INFO	Listening on 127.0.0.1:60690
+1704517337406	mozrunner::runner	INFO	Running command: "C:\\Users\\MIIZI\\.cache\\selenium\\firefox\\win64\\121.0\\firefox.exe" "--marionette" "--remote-debugging- ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIIZI\\AppData\\Local\\Temp\\rust_mozprofile7ypNkl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704517337793	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704517337845	Marionette	INFO	Listening on port 60709
+WebDriver BiDi listening on ws://127.0.0.1:60691
+Read port: 60709
+1704517337967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60691/devtools/browser/31ebaa97-de6b-469e-b5c5-771e9a67064d
+JavaScript warning: https://www.youtube.com/s/desktop/375de707/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2639: Script terminated by timeout at:
+qq.prototype.transition@https://www.youtube.com/s/desktop/375de707/jsbin/desktop_polymer.vflset/desktop_polymer.js:2639:33
+VJ/<@https://www.youtube.com/s/desktop/375de707/jsbin/desktop_polymer.vflset/desktop_polymer.js:9237:114
+
+1704517360331	Marionette	INFO	Stopped listening on port 60709
+Dynamically enable window occlusion 1
+1704517430111	geckodriver	INFO	Listening on 127.0.0.1:60911
+1704517433145	mozrunner::runner	INFO	Running command: "C:\\Users\\MIIZI\\.cache\\selenium\\firefox\\win64\\121.0\\firefox.exe" "--marionette" "--remote-debugging- ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIIZI\\AppData\\Local\\Temp\\rust_mozprofileISeqVK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704517433390	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704517433444	Marionette	INFO	Listening on port 60919
+Read port: 60919
+WebDriver BiDi listening on ws://127.0.0.1:60912
+1704517433484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60912/devtools/browser/31275b94-5f02-49b8-a82b-81385f11d684
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1704517462813	geckodriver	INFO	Listening on 127.0.0.1:60981
+1704517465824	mozrunner::runner	INFO	Running command: "C:\\Users\\MIIZI\\.cache\\selenium\\firefox\\win64\\121.0\\firefox.exe" "--marionette" "--remote-debugging- ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIIZI\\AppData\\Local\\Temp\\rust_mozprofile4QD0MS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704517466056	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704517466110	Marionette	INFO	Listening on port 60989
+WebDriver BiDi listening on ws://127.0.0.1:60982
+Read port: 60989
+1704517466229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60982/devtools/browser/73bf8a86-9020-4a88-af24-89631a36a8a7
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1704517527263	geckodriver	INFO	Listening on 127.0.0.1:61082
+1704517530311	mozrunner::runner	INFO	Running command: "C:\\Users\\MIIZI\\.cache\\selenium\\firefox\\win64\\121.0\\firefox.exe" "--marionette" "--incognito" "--hea ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIIZI\\AppData\\Local\\Temp\\rust_mozprofileVxLYhR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704517530554	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-incognito"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+1704517530600	Marionette	INFO	Listening on port 61090
+WebDriver BiDi listening on ws://127.0.0.1:61083
+Read port: 61090
+1704517530703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61083/devtools/browser/e545ed0c-5aad-4d25-a940-c294187365bd
+JavaScript warning: https://accounts.google.com/gsi/button?theme=outline&size=large&shape=circle&logo_alignment=center&text=signin_with&width=300&client_id=49625052041-kgt0hghf445lmcmhijv46b715m2mpbct.apps.googleusercontent.com&iframe_id=gsi_533468_570822&as=Q8lfY2PTLgZI%2Bp6WaMK9xQ&hl=en, line 188: Script terminated by timeout at:
+mi@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQq/d=1/rs=AF0KOtW3lCNlnXigZvQ0nobv2Vf3V6SFzg/m=credential_button_library:188:62
+Oi@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQq/d=1/rs=AF0KOtW3lCNlnXigZvQ0nobv2Vf3V6SFzg/m=credential_button_library:196:433
+Li@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQq/d=1/rs=AF0KOtW3lCNlnXigZvQ0nobv2Vf3V6SFzg/m=credential_button_library:196:22
+Hi.prototype.I@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQq/d=1/rs=AF0KOtW3lCNlnXigZvQ0nobv2Vf3V6SFzg/m=credential_button_library:195:100
+Hi/<@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQq/d=1/rs=AF0KOtW3lCNlnXigZvQ0nobv2Vf3V6SFzg/m=credential_button_library:189:288
+pc@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQq/d=1/rs=AF0KOtW3lCNlnXigZvQ0nobv2Vf3V6SFzg/m=credential_button_library:62:102
+b@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQq/d=1/rs=AF0KOtW3lCNlnXigZvQ0nobv2Vf3V6SFzg/m=credential_button_library:59:473
+
+1704517561312	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704517679444	geckodriver	INFO	Listening on 127.0.0.1:61356
+1704517682487	mozrunner::runner	INFO	Running command: "C:\\Users\\MIIZI\\.cache\\selenium\\firefox\\win64\\121.0\\firefox.exe" "--marionette" "--remote-debugging- ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIIZI\\AppData\\Local\\Temp\\rust_mozprofile4Ihryx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704517682714	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704517682765	Marionette	INFO	Listening on port 61364
+WebDriver BiDi listening on ws://127.0.0.1:61357
+Read port: 61364
+1704517682883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61357/devtools/browser/aecba2dc-5f29-4ffa-972d-810c6ff4c1ff
+JavaScript warning: https://accounts.google.com/gsi/button?theme=outline&size=large&shape=circle&logo_alignment=center&text=signin_with&width=300&client_id=49625052041-kgt0hghf445lmcmhijv46b715m2mpbct.apps.googleusercontent.com&iframe_id=gsi_686346_170850&as=ycw1MRgA42Ai4rQgR89AYQ&hl=en, line 167: Script terminated by timeout at:
+mh@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6/d=1/rs=AF0KOtVnuEJyX6c8NM8BYvD8-ddlK6fjCQ/m=credential_button_library:167:128
+_.qh@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6/d=1/rs=AF0KOtVnuEJyX6c8NM8BYvD8-ddlK6fjCQ/m=credential_button_library:168:170
+Li/<@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6/d=1/rs=AF0KOtVnuEJyX6c8NM8BYvD8-ddlK6fjCQ/m=credential_button_library:197:43
+Oi@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6/d=1/rs=AF0KOtVnuEJyX6c8NM8BYvD8-ddlK6fjCQ/m=credential_button_library:197:357
+Li@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6/d=1/rs=AF0KOtVnuEJyX6c8NM8BYvD8-ddlK6fjCQ/m=credential_button_library:197:22
+Hi.prototype.I@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6/d=1/rs=AF0KOtVnuEJyX6c8NM8BYvD8-ddlK6fjCQ/m=credential_button_library:196:100
+Hi/<@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6/d=1/rs=AF0KOtVnuEJyX6c8NM8BYvD8-ddlK6fjCQ/m=credential_button_library:190:288
+pc@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6/d=1/rs=AF0KOtVnuEJyX6c8NM8BYvD8-ddlK6fjCQ/m=credential_button_library:62:102
+b@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6/d=1/rs=AF0KOtVnuEJyX6c8NM8BYvD8-ddlK6fjCQ/m=credential_button_library:59:473
+
+JavaScript warning: https://abs.twimg.com/responsive-web/client-web/main.a6b76bba.js, line 1: Script terminated by timeout at:
+845907/c/this._updateSessionStorage@https://abs.twimg.com/responsive-web/client-web/main.a6b76bba.js:1:2474395
+
+1704517689368	Marionette	INFO	Stopped listening on port 61364
+Dynamically enable window occlusion 1
+1704517792039	geckodriver	INFO	Listening on 127.0.0.1:61524
+1704517795083	mozrunner::runner	INFO	Running command: "C:\\Users\\MIIZI\\.cache\\selenium\\firefox\\win64\\121.0\\firefox.exe" "--marionette" "--remote-debugging- ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIIZI\\AppData\\Local\\Temp\\rust_mozprofile7tttuK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704517795313	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704517795366	Marionette	INFO	Listening on port 61534
+WebDriver BiDi listening on ws://127.0.0.1:61525
+Read port: 61534
+1704517795486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61525/devtools/browser/a836c782-dc73-46f2-b779-c99aa0e8dd4a
+JavaScript warning: https://accounts.google.com/gsi/button?theme=outline&size=large&shape=circle&logo_alignment=center&text=signin_with&width=300&client_id=49625052041-kgt0hghf445lmcmhijv46b715m2mpbct.apps.googleusercontent.com&iframe_id=gsi_798949_360419&as=2xqwfTqgURjnr5j%2BwYojhA&hl=en, line 197: Script terminated by timeout at:
+Hi.prototype.flush@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6AQ/d=1/rs=AF0KOtVhHicD1CW_huyZ4LNCZBkJKXVQjw/m=credential_button_library:197:36
+Hi.prototype.I@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6AQ/d=1/rs=AF0KOtVhHicD1CW_huyZ4LNCZBkJKXVQjw/m=credential_button_library:197:115
+Hi/<@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6AQ/d=1/rs=AF0KOtVhHicD1CW_huyZ4LNCZBkJKXVQjw/m=credential_button_library:191:288
+pc@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6AQ/d=1/rs=AF0KOtVhHicD1CW_huyZ4LNCZBkJKXVQjw/m=credential_button_library:62:102
+b@/_/gsi/_/js/k=gsi.gsi.en.wsQFeCBNTH4.O/am=ABQ6AQ/d=1/rs=AF0KOtVhHicD1CW_huyZ4LNCZBkJKXVQjw/m=credential_button_library:59:473
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1704517825334	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+Exiting due to channel error.
+Exiting due to channel error.
+1704518130024	geckodriver	INFO	Listening on 127.0.0.1:61733
+1704518133062	mozrunner::runner	INFO	Running command: "C:\\Users\\MIIZI\\.cache\\selenium\\firefox\\win64\\121.0\\firefox.exe" "--marionette" "--remote-debugging- ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MIIZI\\AppData\\Local\\Temp\\rust_mozprofileesgQ1y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704518133286	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704518133338	Marionette	INFO	Listening on port 61743
+WebDriver BiDi listening on ws://127.0.0.1:61734
+Read port: 61743
+1704518133456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61734/devtools/browser/862c6fc0-f178-4648-8946-d22dbc4b9c18
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 114 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_106387107, line 424: Script terminated by timeout at:
+Fz@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_106387107:424:270
+Iz/this.Z<@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_106387107:420:487
+f@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_106387107:68:436
+ad/<@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_106387107:68:491
+Iz/this.ea@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_106387107:421:110
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 89 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_2046343145, line 423: Script terminated by timeout at:
+Ez@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_2046343145:423:309
+Iz/this.L@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_2046343145:420:89
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 553 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11480, MediaDecoderStateMachine #1] WARNING: Decoder=29aea1bc700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 11480, MediaDecoderStateMachine #1] WARNING: Decoder=29aea1bc700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 11480, MediaDecoderStateMachine #1] WARNING: Decoder=29af14b0a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 11480, MediaDecoderStateMachine #1] WARNING: Decoder=29af14b0a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_1317074951, line 423: Script terminated by timeout at:
+Ez@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_1317074951:423:309
+Iz/this.L@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_1317074951:420:89
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 11480, MediaDecoderStateMachine #1] WARNING: Decoder=29ae4958100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 11480, MediaDecoderStateMachine #1] WARNING: Decoder=29ae4958100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 11480, MediaDecoderStateMachine #1] WARNING: Decoder=29aea1ba900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 11480, MediaDecoderStateMachine #1] WARNING: Decoder=29aea1ba900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 7751 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1704518163497	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_1658940025, line 423: Script terminated by timeout at:
+Ez@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_1658940025:423:309
+Iz/this.L@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_1658940025:420:89
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 7185 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_497391188, line 423: Script terminated by timeout at:
+Ez@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_497391188:423:309
+Iz/this.L@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_497391188:420:89
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 6773 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11480, MediaDecoderStateMachine #1] WARNING: Decoder=29af6242400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 11480, MediaDecoderStateMachine #1] WARNING: Decoder=29af6242400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_482959986, line 423: Script terminated by timeout at:
+Ez@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_482959986:423:309
+Iz/this.L@https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_482959986:420:89
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 7557 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

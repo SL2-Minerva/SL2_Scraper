@@ -1,0 +1,4 @@
+
+Campaign: ทั่วไป, Keyword: , Start: 2024-05-08 21:38:17, End: 2024-05-08 21:38:17, Time Used: 0:0:0, Result: 0
+Campaign: พรรคการเมือง, Keyword: , Start: 2024-05-08 21:38:24, End: 2024-05-08 21:38:24, Time Used: 0:0:0, Result: 0
+Campaign: การประปานครหลวง, Keyword: , Start: 2024-05-08 21:38:37, End: 2024-05-08 21:38:37, Time Used: 0:0:0, Result: 0
